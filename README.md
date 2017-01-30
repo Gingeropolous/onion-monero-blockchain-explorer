@@ -27,7 +27,7 @@ Clearnet versions:
  - [https://xmrchain.net/](https://xmrchain.net/) - https enabled and most up to date.
  - [http://explore.MoneroWorld.com](http://explore.moneroworld.com) - same as above.
  - [http://blox.supportxmr.com/](http://blox.supportxmr.com/)
- - [https://explorer.xmr.my/](https://explorer.xmr.my/)
+ 
  
 Clearnet testnet Monero version - https enabled:
   
@@ -37,7 +37,7 @@ Tor users - down for now:
  
  - [http://3ccmeg4dunrl7h3i.onion/](http://3ccmeg4dunrl7h3i.onion/)
 
-i2p users (main Monero network) - down for now:
+i2p users (main Monero network) - :
 
  - [http://monerotools.i2p](http://monerotools.i2p)
 
